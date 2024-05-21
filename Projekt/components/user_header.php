@@ -9,13 +9,13 @@
    </div>
 
    <nav class="navbar">
-      <a href="index.php#home">home</a>
-      <a href="index.php#about">about</a>
-      <a href="index.php#reservation">reservation</a>
-      <a href="index.php#gallery">gallery</a>
-      <a href="index.php#contact">contact</a>
-      <a href="index.php#reviews">reviews</a>
-      <a href="bookings.php">my bookings</a>
+      <a href="index.php#home">Home</a>
+      <a href="index.php#about">About</a>
+      <a href="index.php#reservation">Reservation</a>
+      <a href="index.php#gallery">Gallery</a>
+      <a href="index.php#contact">Contact</a>
+      <a href="index.php#reviews">Reviews</a>
+      <a href="bookings.php">My Bookings</a>
    </nav>
 
 </section>
