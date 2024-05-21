@@ -13,26 +13,26 @@
       </div>
 
       <div class="box">
-         <a href="#home">home</a>
-         <a href="#about">about</a>
-         <a href="bookings.php">my bookings</a>
-         <a href="#reservation">reservation</a>
-         <a href="#gallery">gallery</a>
-         <a href="#contact">contact</a>
-         <a href="#reviews">reviews</a>
+         <a href="#home">Hauptseite</a>
+         <a href="#about">Über uns</a>
+         <a href="bookings.php">Meine Reservierungen</a>
+         <a href="#reservation">Reservierung</a>
+         <a href="#gallery">Galerie</a>
+         <a href="#contact">Kontakt</a>
+         <a href="#reviews">Bewertungen</a>
       </div>
 
       <div class="box">
-         <a href="#">facebook <i class="fab fa-facebook-f"></i></a>
-         <a href="#">twitter <i class="fab fa-twitter"></i></a>
-         <a href="#">instagram <i class="fab fa-instagram"></i></a>
-         <a href="#">linkedin <i class="fab fa-linkedin"></i></a>
-         <a href="#">youtube <i class="fab fa-youtube"></i></a>
+         <a href="#">Facebook <i class="fab fa-facebook-f"></i></a>
+         <a href="#">Twitter <i class="fab fa-twitter"></i></a>
+         <a href="#">Instagram <i class="fab fa-instagram"></i></a>
+         <a href="#">Linkedin <i class="fab fa-linkedin"></i></a>
+         <a href="#">Youtube <i class="fab fa-youtube"></i></a>
       </div>
 
    </div>
 
-   <div class="credit">&copy; copyright @ 2022 by mr. web designer | all rights reseved!</div>
+   <div class="credit">&copy; Urheberrecht @ 2024 von Jussif & Leonardo | Alle Rechte vorbehalten!</div>
 
 </section>
 
