@@ -113,7 +113,7 @@ if(isset($_POST['send'])){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>home</title>
+   <title>Hauptseite</title>
 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
 
@@ -139,24 +139,24 @@ if(isset($_POST['send'])){
          <div class="box swiper-slide">
             <img src="images/home-img-1.jpg" alt="">
             <div class="flex">
-               <h3>luxurious rooms</h3>
-               <a href="#availability" class="btn">check availability</a>
+               <h3>Luxuriöse Zimmer</h3>
+               <a href="#availability" class="btn">Verfügbarkeit prüfen</a>
             </div>
          </div>
 
          <div class="box swiper-slide">
             <img src="images/home-img-2.jpg" alt="">
             <div class="flex">
-               <h3>foods and drinks</h3>
-               <a href="#reservation" class="btn">make a reservation</a>
+               <h3>Essen und Trinken</h3>
+               <a href="#reservation" class="btn">reservieren</a>
             </div>
          </div>
 
          <div class="box swiper-slide">
             <img src="images/home-img-3.jpg" alt="">
             <div class="flex">
-               <h3>luxurious halls</h3>
-               <a href="#contact" class="btn">contact us</a>
+               <h3>Luxuriöse Säle</h3>
+               <a href="#contact" class="btn">kontaktiere uns</a>
             </div>
          </div>
 
@@ -178,45 +178,45 @@ if(isset($_POST['send'])){
    <form action="" method="post">
       <div class="flex">
          <div class="box">
-            <p>check in <span>*</span></p>
+            <p>Check-In <span>*</span></p>
             <input type="date" name="check_in" class="input" required>
          </div>
          <div class="box">
-            <p>check out <span>*</span></p>
+            <p>Check-Out <span>*</span></p>
             <input type="date" name="check_out" class="input" required>
          </div>
          <div class="box">
-            <p>adults <span>*</span></p>
+            <p>Erwachsene <span>*</span></p>
             <select name="adults" class="input" required>
-               <option value="1">1 adult</option>
-               <option value="2">2 adults</option>
-               <option value="3">3 adults</option>
-               <option value="4">4 adults</option>
-               <option value="5">5 adults</option>
-               <option value="6">6 adults</option>
+               <option value="1">1 Erwachsener</option>
+               <option value="2">2 Erwachsene</option>
+               <option value="3">3 Erwachsene</option>
+               <option value="4">4 Erwachsene</option>
+               <option value="5">5 Erwachsene</option>
+               <option value="6">6 Erwachsene</option>
             </select>
          </div>
          <div class="box">
-            <p>childs <span>*</span></p>
+            <p>Kinder <span>*</span></p>
             <select name="childs" class="input" required>
-               <option value="-">0 child</option>
-               <option value="1">1 child</option>
-               <option value="2">2 childs</option>
-               <option value="3">3 childs</option>
-               <option value="4">4 childs</option>
-               <option value="5">5 childs</option>
-               <option value="6">6 childs</option>
+               <option value="-">0 Kinder</option>
+               <option value="1">1 Kind</option>
+               <option value="2">2 Kinder</option>
+               <option value="3">3 Kinder</option>
+               <option value="4">4 Kinder</option>
+               <option value="5">5 Kinder</option>
+               <option value="6">6 Kinder</option>
             </select>
          </div>
          <div class="box">
-            <p>rooms <span>*</span></p>
+            <p>Zimmer <span>*</span></p>
             <select name="rooms" class="input" required>
-               <option value="1">1 room</option>
-               <option value="2">2 rooms</option>
-               <option value="3">3 rooms</option>
-               <option value="4">4 rooms</option>
-               <option value="5">5 rooms</option>
-               <option value="6">6 rooms</option>
+               <option value="1">1 Zimmer</option>
+               <option value="2">2 Zimmer</option>
+               <option value="3">3 Zimmer</option>
+               <option value="4">4 Zimmer</option>
+               <option value="5">5 Zimmer</option>
+               <option value="6">6 Zimmer</option>
             </select>
          </div>
       </div>
@@ -236,9 +236,9 @@ if(isset($_POST['send'])){
          <img src="images/about-img-1.jpg" alt="">
       </div>
       <div class="content">
-         <h3>best staff</h3>
+         <h3>Das beste Personal</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
-         <a href="#reservation" class="btn">make a reservation</a>
+         <a href="#reservation" class="btn">reservieren</a>
       </div>
    </div>
 
@@ -247,9 +247,9 @@ if(isset($_POST['send'])){
          <img src="images/about-img-2.jpg" alt="">
       </div>
       <div class="content">
-         <h3>best foods</h3>
+         <h3>Das beste Essen</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
-         <a href="#contact" class="btn">contact us</a>
+         <a href="#contact" class="btn">kontaktiere uns</a>
       </div>
    </div>
 
@@ -258,9 +258,9 @@ if(isset($_POST['send'])){
          <img src="images/about-img-3.jpg" alt="">
       </div>
       <div class="content">
-         <h3>swimming pool</h3>
+         <h3>Schwimmbad</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
-         <a href="#availability" class="btn">check availability</a>
+         <a href="#availability" class="btn">Verfügbarkeit prüfen</a>
       </div>
    </div>
 
@@ -276,37 +276,37 @@ if(isset($_POST['send'])){
 
       <div class="box">
          <img src="images/icon-1.png" alt="">
-         <h3>food & drinks</h3>
+         <h3>Essen und Trinken</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-2.png" alt="">
-         <h3>outdoor dining</h3>
+         <h3>Essen im Freien</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
-         <h3>beach view</h3>
+         <h3>Strandblick</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-4.png" alt="">
-         <h3>decorations</h3>
+         <h3>Dekorationen</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-5.png" alt="">
-         <h3>swimming pool</h3>
+         <h3>Schwimmbad</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-6.png" alt="">
-         <h3>resort beach</h3>
+         <h3>Resort-Strand</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
       </div>
 
@@ -321,60 +321,60 @@ if(isset($_POST['send'])){
 <section class="reservation" id="reservation">
 
    <form action="" method="post">
-      <h3>make a reservation</h3>
+      <h3>reservieren</h3>
       <div class="flex">
          <div class="box">
-            <p>your name <span>*</span></p>
+            <p>Ihr Name <span>*</span></p>
             <input type="text" name="name" maxlength="50" required placeholder="enter your name" class="input">
          </div>
          <div class="box">
-            <p>your email <span>*</span></p>
+            <p>Ihre E-Mail <span>*</span></p>
             <input type="email" name="email" maxlength="50" required placeholder="enter your email" class="input">
          </div>
          <div class="box">
-            <p>your number <span>*</span></p>
+            <p>Ihre Nummer <span>*</span></p>
             <input type="number" name="number" maxlength="10" min="0" max="9999999999" required placeholder="enter your number" class="input">
          </div>
          <div class="box">
-            <p>rooms <span>*</span></p>
+            <p>Zimmer <span>*</span></p>
             <select name="rooms" class="input" required>
-               <option value="1" selected>1 room</option>
-               <option value="2">2 rooms</option>
-               <option value="3">3 rooms</option>
-               <option value="4">4 rooms</option>
-               <option value="5">5 rooms</option>
-               <option value="6">6 rooms</option>
+               <option value="1" selected>1 Zimmer</option>
+               <option value="2">2 Zimmer</option>
+               <option value="3">3 Zimmer</option>
+               <option value="4">4 Zimmer</option>
+               <option value="5">5 Zimmer</option>
+               <option value="6">6 Zimmer</option>
             </select>
          </div>
          <div class="box">
-            <p>check in <span>*</span></p>
+            <p>Check-In <span>*</span></p>
             <input type="date" name="check_in" class="input" required>
          </div>
          <div class="box">
-            <p>check out <span>*</span></p>
+            <p>Check-Out <span>*</span></p>
             <input type="date" name="check_out" class="input" required>
          </div>
          <div class="box">
-            <p>adults <span>*</span></p>
+            <p>Erwachsene <span>*</span></p>
             <select name="adults" class="input" required>
-               <option value="1" selected>1 adult</option>
-               <option value="2">2 adults</option>
-               <option value="3">3 adults</option>
-               <option value="4">4 adults</option>
-               <option value="5">5 adults</option>
-               <option value="6">6 adults</option>
+               <option value="1" selected>1 Erwachsener</option>
+               <option value="2">2 Erwachsene</option>
+               <option value="3">3 Erwachsene</option>
+               <option value="4">4 Erwachsene</option>
+               <option value="5">5 Erwachsene</option>
+               <option value="6">6 Erwachsene</option>
             </select>
          </div>
          <div class="box">
-            <p>childs <span>*</span></p>
+            <p>Kinder <span>*</span></p>
             <select name="childs" class="input" required>
-               <option value="0" selected>0 child</option>
-               <option value="1">1 child</option>
-               <option value="2">2 childs</option>
-               <option value="3">3 childs</option>
-               <option value="4">4 childs</option>
-               <option value="5">5 childs</option>
-               <option value="6">6 childs</option>
+               <option value="0" selected>0 Kinder</option>
+               <option value="1">1 Kind</option>
+               <option value="2">2 Kinder</option>
+               <option value="3">3 Kinder</option>
+               <option value="4">4 Kinder</option>
+               <option value="5">5 Kinder</option>
+               <option value="6">6 Kinder</option>
             </select>
          </div>
       </div>
@@ -412,7 +412,7 @@ if(isset($_POST['send'])){
    <div class="row">
 
       <form action="" method="post">
-         <h3>send us message</h3>
+         <h3>Schicken Sie uns eine Nachricht</h3>
          <input type="text" name="name" required maxlength="50" placeholder="enter your name" class="box">
          <input type="email" name="email" required maxlength="50" placeholder="enter your email" class="box">
          <input type="number" name="number" required maxlength="10" min="0" max="9999999999" placeholder="enter your number" class="box">
@@ -421,25 +421,25 @@ if(isset($_POST['send'])){
       </form>
 
       <div class="faq">
-         <h3 class="title">frequently asked questions</h3>
+         <h3 class="title">Häufig gestellte Fragen</h3>
          <div class="box active">
-            <h3>how to cancel?</h3>
+            <h3>Wie kündige ich?</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sunt aspernatur excepturi eos! Quibusdam, sapiente.</p>
          </div>
          <div class="box">
-            <h3>is there any vacancy?</h3>
+            <h3>Gibt es eine freie Stelle?</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
          </div>
          <div class="box">
-            <h3>what are payment methods?</h3>
+            <h3>Was sind Zahlungsmethoden?</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
          </div>
          <div class="box">
-            <h3>how to claim coupons codes?</h3>
+            <h3>Wie erhalte ich Gutscheincodes?</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
          </div>
          <div class="box">
-            <h3>what are the age requirements?</h3>
+            <h3>Was sind die Altersanforderungen?</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
          </div>
       </div>
@@ -459,32 +459,32 @@ if(isset($_POST['send'])){
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
             <img src="images/pic-1.png" alt="">
-            <h3>john deo</h3>
+            <h3>Jussif Abdel-Rahman</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-2.png" alt="">
-            <h3>john deo</h3>
+            <h3>Leonardo Kalbermatter</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-3.png" alt="">
-            <h3>john deo</h3>
+            <h3>Hans Franz</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-4.png" alt="">
-            <h3>john deo</h3>
+            <h3>Cristiano Ronaldo</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-5.png" alt="">
-            <h3>john deo</h3>
+            <h3>Thomas Schmidt</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-6.png" alt="">
-            <h3>john deo</h3>
+            <h3>John Imboden</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
       </div>
