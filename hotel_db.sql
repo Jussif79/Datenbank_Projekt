@@ -5,21 +5,6 @@ SET
 
 USE hotel_db;
 
-CREATE TABLE admins(
-    id VARCHAR(20) NOT NULL,
-    name VARCHAR(20) NOT NULL,
-    password VARCHAR(50) NOT NULL
-);
-
-INSERT INTO
-    admins (id, name, password)
-VALUES
-    (
-        "EQYJaB96HcaTtxag6J7d",
-        "admin",
-        "6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2"
-    );
-
 CREATE TABLE bookings (
     user_id VARCHAR(20) NOT NULL,
     booking_id VARCHAR(20) NOT NULL,
