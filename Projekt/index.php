@@ -483,8 +483,7 @@ if (isset($_POST['send'])) {
 
                   Online: Nutzen Sie die Funktion zur Online-Stornierung auf unserer Webseite.
                   Telefonisch: Kontaktieren Sie unser Reservierungsteam.
-                  Per E-Mail: Senden Sie uns eine E-Mail mit Ihrer Buchungsnummer und dem Stornierungswunsch an
-                  [E-Mail-Adresse].
+                  Per E-Mail: Senden Sie uns eine E-Mail mit Ihrer Buchungsnummer und dem Stornierungswunsch.
 
                   Bitte beachten Sie unsere Stornierungsbedingungen.
                </p>
