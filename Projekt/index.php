@@ -285,38 +285,25 @@ if (isset($_POST['send'])) {
          <div class="box">
             <img src="images/icon-1.png" alt="">
             <h3>Essen und Trinken</h3>
-            <p>Wir bieten Ihnen eine exzellente Auswahl an Speisen und Getränken, die Ihre
-               Geschmacksknospen verwöhnen werden.
+            <p>Wir bieten Ihnen eine exzellente Auswahl an Speisen und Getränken.
 
-               Restaurant: Genießen Sie köstliche Gerichte in unserem hauseigenen Restaurant, das eine vielfältige
-               Auswahl an lokalen und internationalen Spezialitäten bietet.
-               Bar: Entspannen Sie sich nach einem ereignisreichen Tag in unserer Bar, wo Sie eine breite Palette an
-               erfrischenden Getränken und handgefertigten Cocktails erwarten.
-               Zimmerservice: Möchten Sie lieber in Ihrem Zimmer speisen? Kein Problem! Unser Zimmerservice steht Ihnen
-               rund um die Uhr zur Verfügung, damit Sie Ihre Mahlzeiten in Ruhe genießen können.
-               Frühstück inklusive: Beginnen Sie Ihren Tag mit einem reichhaltigen Frühstück, das im Zimmerpreis
-               inbegriffen ist. Wählen Sie aus einer Vielzahl von warmen und kalten Speisen sowie frisch zubereiteten
-               Säften und Kaffee.
+               Restaurant: Geniessen Sie lokale und internationale Spezialitäten in unserem Restaurant.
+               Bar: Entspannen Sie sich in unserer Bar mit einer breiten Palette an Getränken und Cocktails.
+               Zimmerservice: Unser 24-Stunden-Zimmerservice ermöglicht Ihnen, Ihre Mahlzeiten in Ihrem Zimmer zu genießen.
+               Frühstück inklusive: Beginnen Sie den Tag mit einem reichhaltigen Frühstück, das im Zimmerpreis inbegriffen ist.
 
-               Wir legen großen Wert auf Qualität und Frische und verwenden dafür nur die besten Zutaten. Lassen Sie
-               sich von unserem gastronomischen Angebot begeistern und erleben Sie unvergessliche kulinarische Momente.
+               Wir verwenden nur die besten Zutaten, um Ihnen unvergessliche kulinarische Momente zu bieten.
             </p>
          </div>
 
          <div class="box">
             <img src="images/icon-2.png" alt="">
             <h3>Essen im Freien</h3>
-            <p>Genießen Sie Ihre Mahlzeiten unter freiem Himmel in unserem charmanten Außenbereich.
+            <p>Geniessen Sie Ihre Mahlzeiten unter freiem Himmel in unserem charmanten Aussenbereich.
 
-               Gartenrestaurant: Erleben Sie die Schönheit der Natur, während Sie köstliche Speisen in unserem
-               Gartenrestaurant genießen. Umgeben von üppigem Grün und einer entspannten Atmosphäre können Sie hier
-               unvergessliche gastronomische Erlebnisse erleben.
-               Poolbar: Entspannen Sie sich am Pool und gönnen Sie sich erfrischende Getränke und leichte Snacks an
-               unserer Poolbar. Unser freundliches Personal sorgt dafür, dass Sie sich rundum wohlfühlen und Ihre Zeit
-               im Freien voll auskosten können.
-               Terrasse: Auf unserer Terrasse können Sie spektakuläre Ausblicke auf die Umgebung genießen, während Sie
-               sich von unseren kulinarischen Köstlichkeiten verwöhnen lassen. Ob zum Frühstück, Mittag- oder Abendessen
-               - die Terrasse bietet Ihnen einen einzigartigen Ort, um Ihre Mahlzeiten im Freien zu genießen.
+               Gartenrestaurant: Köstliche Speisen umgeben von üppigem Grün und entspannter Atmosphäre.
+               Poolbar: Erfrischende Getränke und leichte Snacks am Pool, betreut von unserem freundlichen Personal.
+               Terrasse: Spektakuläre Ausblicke und kulinarische Köstlichkeiten zu jeder Mahlzeit.
 
                Erleben Sie die perfekte Verbindung von gutem Essen und Natur.</p>
          </div>
@@ -324,17 +311,11 @@ if (isset($_POST['send'])) {
          <div class="box">
             <img src="images/icon-3.png" alt="">
             <h3>Strandblick</h3>
-            <p>Genießen Sie spektakuläre Ausblicke auf den Strand und das Meer während Ihrer Mahlzeiten.
+            <p>Geniessen Sie spektakuläre Ausblicke auf den Strand und das Meer während Ihrer Mahlzeiten.
 
-               Strandrestaurant: Unser Strandrestaurant bietet nicht nur exzellente Speisen, sondern auch eine
-               atemberaubende Aussicht auf den glitzernden Ozean. Erleben Sie romantische Sonnenuntergänge und den
-               beruhigenden Klang der Wellen, während Sie sich von unseren köstlichen Gerichten verwöhnen lassen.
-               Meeresbrise: Lassen Sie sich von der erfrischenden Meeresbrise umgeben, während Sie auf unserer Terrasse
-               speisen. Mit Blick auf den endlosen Horizont und den feinen Sandstrand wird Ihr Essen zu einem
-               unvergesslichen Erlebnis.
-               Privates Dinieren am Strand: Für eine besonders romantische Atmosphäre bieten wir auch private Dinners am
-               Strand an. Genießen Sie exklusive Gerichte und persönlichen Service, während Sie den sanften Rausch der
-               Wellen im Hintergrund spüren.
+               Strandrestaurant: Exzellente Speisen mit atemberaubender Aussicht auf den Ozean und romantische Sonnenuntergänge.
+               Meeresbrise: Speisen Sie auf unserer Terrasse mit Blick auf den Horizont und den feinen Sandstrand.
+               Privates Dinieren am Strand: Romantische, exklusive Gerichte und persönlicher Service direkt am Strand.
 
                Erleben Sie kulinarische Genüsse in perfekter Harmonie mit der Schönheit der Natur.</p>
          </div>
@@ -344,15 +325,10 @@ if (isset($_POST['send'])) {
             <h3>Dekorationen</h3>
             <p>Tauchen Sie ein in eine Welt voller Eleganz und Stil dank unserer sorgfältig ausgewählten Dekorationen.
 
-               Elegantes Ambiente: Von der Lobby bis zu den Gästezimmern sorgen unsere stilvollen Dekorationen für eine
-               einladende Atmosphäre, die Komfort und Luxus vereint.
-               Kunstwerke: Bewundern Sie die Kunstwerke lokaler Künstler, die unsere Wände schmücken und jedem Raum eine
-               besondere Note verleihen.
-               Blumenschmuck: Frische Blumenarrangements sorgen für eine belebende und duftende Atmosphäre in unserem
-               Hotel. Lassen Sie sich von der Schönheit und Eleganz der Blumen verzaubern.
-               Saisonale Dekorationen: Wir passen unsere Dekorationen je nach Jahreszeit an, um Ihnen stets ein
-               einzigartiges und festliches Erlebnis zu bieten. Ob Weihnachten, Valentinstag oder Sommerfest, unsere
-               Dekorationen spiegeln stets die aktuelle Stimmung wider.
+               Elegantes Ambiente: Stilvolle Dekorationen in der Lobby und den Gästezimmern vereinen Komfort und Luxus.
+               Kunstwerke: Bewundern Sie lokale Kunstwerke, die jedem Raum eine besondere Note verleihen.
+               Blumenschmuck: Frische Blumenarrangements schaffen eine belebende und duftende Atmosphäre.
+               Saisonale Dekorationen: Angepasst an die Jahreszeiten bieten unsere Dekorationen ein festliches Erlebnis.
 
                Erleben Sie die Kunst der Dekorationen und lassen Sie sich von unserem ansprechenden
                Ambiente verzaubern.</p>
@@ -363,14 +339,10 @@ if (isset($_POST['send'])) {
             <h3>Schwimmbad</h3>
             <p>Entspannen Sie Körper und Geist in unserem erstklassigen Schwimmbad.
 
-               Erfrischender Genuss: Tauchen Sie ein in unser kristallklares Schwimmbad und erfrischen Sie sich nach
-               einem langen Tag voller Abenteuer und Erkundungen.
-               Panoramablick: Genießen Sie spektakuläre Ausblicke auf die Umgebung während Sie im Pool schwimmen. Unser
-               Schwimmbad bietet Ihnen nicht nur Entspannung, sondern auch eine atemberaubende Aussicht.
-               Sonnenliegen: Entspannen Sie sich auf bequemen Sonnenliegen rund um das Schwimmbad und genießen Sie die
-               warmen Sonnenstrahlen auf Ihrer Haut.
-               Poolbar: Verpassen Sie nicht unsere Poolbar, wo Sie erfrischende Getränke und leichte Snacks genießen
-               können, ohne das Wasser zu verlassen.
+            Erfrischender Genuss: Tauchen Sie in unser kristallklares Schwimmbad ein und erfrischen Sie sich nach einem ereignisreichen Tag.
+            Panoramablick: Genießen Sie spektakuläre Ausblicke auf die Umgebung beim Schwimmen.
+            Sonnenliegen: Entspannen Sie auf bequemen Sonnenliegen rund um das Schwimmbad und genießen Sie die Sonne.
+            Poolbar: Genießen Sie erfrischende Getränke und leichte Snacks an unserer Poolbar.
 
                Erleben Sie unvergessliche Momente der Entspannung und Erholung in unserem Schwimmbad.</p>
          </div>
@@ -381,19 +353,12 @@ if (isset($_POST['send'])) {
             <p>Entdecken Sie unseren exklusiven Strandbereich, wo Entspannung und Abenteuer auf Sie
                warten.
 
-               Privater Zugang: Genießen Sie direkten Zugang zu einem abgeschiedenen Strandabschnitt, der exklusiv für
-               unsere Gäste reserviert ist. Entfliehen Sie dem Trubel und lassen Sie sich von der Ruhe und Schönheit des
-               Meeres verzaubern.
-               Wassersportaktivitäten: Erleben Sie aufregende Wassersportaktivitäten wie Schnorcheln, Tauchen oder
-               Kajakfahren direkt vor unserer Haustür. Unser erfahrenes Personal steht Ihnen gerne zur Seite, um
-               unvergessliche Abenteuer zu ermöglichen.
-               Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und leichten Snacks an unserer Strandbar,
-               während Sie den Blick auf den endlosen Horizont genießen.
-               Sonnenuntergänge: Erleben Sie spektakuläre Sonnenuntergänge am Strand und lassen Sie sich von der
-               romantischen Atmosphäre verzaubern.
+               Privater Zugang: Genießen Sie einen abgeschiedenen Strandabschnitt, exklusiv für unsere Gäste.
+               Wassersportaktivitäten: Erleben Sie Schnorcheln, Tauchen oder Kajakfahren direkt vor Ort, unterstützt von unserem erfahrenen Personal.
+               Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und Snacks an unserer Strandbar.
+               Sonnenuntergänge: Genießen Sie spektakuläre Sonnenuntergänge und die romantische Atmosphäre am Strand.
 
-               Erleben Sie unvergessliche Momente am Strand und lassen Sie sich von der Schönheit der
-               Natur inspirieren.
+               Erleben Sie unvergessliche Momente und lassen Sie sich von der Schönheit der Natur inspirieren.
             </p>
          </div>
 
