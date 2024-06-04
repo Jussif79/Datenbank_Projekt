@@ -23,11 +23,11 @@ if (isset($_POST['check'])) {
       $total_rooms += $fetch_bookings['rooms'];
    }
 
-   // if the hotel has total 30 rooms 
+   // wenn das Hotel insgesamt 30 Zimmer hat 
    if ($total_rooms >= 30) {
-      $warning_msg[] = 'rooms are not available';
+      $warning_msg[] = 'Zimmer sind nicht verfügbar';
    } else {
-      $success_msg[] = 'rooms are available';
+      $success_msg[] = 'Zimmer sind verfügbar';
    }
 
 }
@@ -62,18 +62,18 @@ if (isset($_POST['book'])) {
    }
 
    if ($total_rooms >= 30) {
-      $warning_msg[] = 'rooms are not available';
+      $warning_msg[] = 'Zimmer sind nicht verfügbar';
    } else {
 
       $verify_bookings = $conn->prepare("SELECT * FROM `bookings` WHERE user_id = ? AND name = ? AND email = ? AND number = ? AND rooms = ? AND check_in = ? AND check_out = ? AND adults = ? AND childs = ?");
       $verify_bookings->execute([$user_id, $name, $email, $number, $rooms, $check_in, $check_out, $adults, $childs]);
 
       if ($verify_bookings->rowCount() > 0) {
-         $warning_msg[] = 'room booked alredy!';
+         $warning_msg[] = 'Zimmer bereits gebucht!';
       } else {
          $book_room = $conn->prepare("INSERT INTO `bookings`(booking_id, user_id, name, email, number, rooms, check_in, check_out, adults, childs) VALUES(?,?,?,?,?,?,?,?,?,?)");
          $book_room->execute([$booking_id, $user_id, $name, $email, $number, $rooms, $check_in, $check_out, $adults, $childs]);
-         $success_msg[] = 'room booked successfully!';
+         $success_msg[] = 'Zimmer erfolgreich gebucht!';
       }
 
    }
@@ -96,11 +96,11 @@ if (isset($_POST['send'])) {
    $verify_message->execute([$name, $email, $number, $message]);
 
    if ($verify_message->rowCount() > 0) {
-      $warning_msg[] = 'message sent already!';
+      $warning_msg[] = 'Nachricht schon gesendet!';
    } else {
       $insert_message = $conn->prepare("INSERT INTO `messages`(id, name, email, number, message) VALUES(?,?,?,?,?)");
       $insert_message->execute([$id, $name, $email, $number, $message]);
-      $success_msg[] = 'message send successfully!';
+      $success_msg[] = 'Nachricht erfolgreich gesendet!';
    }
 
 }
@@ -222,7 +222,7 @@ if (isset($_POST['send'])) {
                </select>
             </div>
          </div>
-         <input type="submit" value="check availability" name="check" class="btn">
+         <input type="submit" value="Verfügbarkeit prüfen" name="check" class="btn">
       </form>
 
    </section>
@@ -328,7 +328,7 @@ if (isset($_POST['send'])) {
             </p>
          </div>
 
-         <di v class="box">
+         <div class="box">
             <img src="images/icon-5.png" alt="">
             <h3>Schwimmbad</h3>
             <p> Entspannen Sie Körper und Geist in unserem erstklassigen Schwimmbad.<br>
@@ -338,21 +338,21 @@ if (isset($_POST['send'])) {
                Sonnenliegen: Entspannen Sie auf bequemen Sonnenliegen rund um das Schwimmbad und genießen Sie die
                Sonne.<br>
                Poolbar: Genießen Sie erfrischende Getränke und leichte Snacks an unserer Poolbar.</p>
+         </div>
+
+         <div class="box">
+            <img src="images/icon-6.png" alt="">
+            <h3>Resort-Strand</h3>
+            <p>Entdecken Sie unseren exklusiven Strandbereich, wo Entspannung und Abenteuer auf Sie warten.<br>
+               Privater Zugang: Genießen Sie einen abgeschiedenen Strandabschnitt, exklusiv für unsere Gäste.<br>
+               Wassersportaktivitäten: Erleben Sie Schnorcheln, Tauchen oder Kajakfahren direkt vor Ort, unterstützt von
+               unserem erfahrenen Personal.<br>
+               Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und Snacks an unserer Strandbar.<br>
+               Sonnenuntergänge: Genießen Sie spektakuläre Sonnenuntergänge und die romantische Atmosphäre am Strand.
+            </p>
+         </div>
+
       </div>
-
-      <di v class="box">
-         <img src="images/icon-6.png" alt="">
-         <h3>Resort-Strand</h3>
-         <p>Entdecken Sie unseren exklusiven Strandbereich, wo Entspannung und Abenteuer auf Sie warten.<br>
-            Privater Zugang: Genießen Sie einen abgeschiedenen Strandabschnitt, exklusiv für unsere Gäste.<br>
-            Wassersportaktivitäten: Erleben Sie Schnorcheln, Tauchen oder Kajakfahren direkt vor Ort, unterstützt von
-            unserem erfahrenen Personal.<br>
-            Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und Snacks an unserer Strandbar.<br>
-            Sonnenuntergänge: Genießen Sie spektakuläre Sonnenuntergänge und die romantische Atmosphäre am Strand.
-         </p>
-         </div>
-
-         </div>
 
    </section>
 
