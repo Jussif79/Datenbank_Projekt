@@ -238,7 +238,7 @@ if (isset($_POST['send'])) {
             <img src="images/about-img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Das beste Personal</h3>
+            <h3>hochqualifiziertes Personal</h3>
             <p>Unser Team bietet Ihnen herzliche Gastfreundschaft und professionellen Service. Mit
                langjähriger Erfahrung und Mehrsprachigkeit sind wir stets für Ihre Bedürfnisse da. Genießen Sie einen
                unvergesslichen Aufenthalt mit unserem engagierten Personal.</p>
@@ -251,7 +251,7 @@ if (isset($_POST['send'])) {
             <img src="images/about-img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Das beste Essen</h3>
+            <h3>erstklassige Küche</h3>
             <p>Entdecken Sie kulinarische Genüsse. Unser Restaurant bietet eine vielfältige Auswahl an
                köstlichen Gerichten, die von erfahrenen Köchen mit frischen Zutaten zubereitet werden. Genießen Sie ein
                unvergessliches kulinarisches Erlebnis in entspannter Atmosphäre.</p>
