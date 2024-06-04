@@ -1,5 +1,3 @@
-<!-- header section starts  -->
-
 <section class="header">
 
    <div class="flex">
@@ -10,7 +8,7 @@
 
    <nav class="navbar">
       <a href="index.php#home">Hauptseite</a>
-      <a href="index.php#about">Über uns</a>
+      <a href="index.php#about">Info</a>
       <a href="index.php#reservation">Reservierung</a>
       <a href="index.php#gallery">Galerie</a>
       <a href="index.php#contact">Kontakt</a>
@@ -19,5 +17,3 @@
    </nav>
 
 </section>
-
-<!-- header section ends -->

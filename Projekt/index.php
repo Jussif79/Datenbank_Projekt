@@ -149,7 +149,7 @@ if (isset($_POST['send'])) {
             <div class="box swiper-slide">
                <img src="images/home-img-2.jpg" alt="">
                <div class="flex">
-                  <h3>Essen und Trinken</h3>
+                  <h3>Bar</h3>
                   <a href="#reservation" class="btn">reservieren</a>
                </div>
             </div>
@@ -157,7 +157,7 @@ if (isset($_POST['send'])) {
             <div class="box swiper-slide">
                <img src="images/home-img-3.jpg" alt="">
                <div class="flex">
-                  <h3>Luxuriöse Säle</h3>
+                  <h3>Luxushallen</h3>
                   <a href="#contact" class="btn">kontaktiere uns</a>
                </div>
             </div>
@@ -255,7 +255,7 @@ if (isset($_POST['send'])) {
             <p>Entdecken Sie kulinarische Genüsse. Unser Restaurant bietet eine vielfältige Auswahl an
                köstlichen Gerichten, die von erfahrenen Köchen mit frischen Zutaten zubereitet werden. Genießen Sie ein
                unvergessliches kulinarisches Erlebnis in entspannter Atmosphäre.</p>
-            <a href="#contact" class="btn">kontaktiere uns</a>
+            <a href="#contact" class="btn">kontaktieren Sie uns</a>
          </div>
       </div>
 
@@ -284,85 +284,75 @@ if (isset($_POST['send'])) {
 
          <div class="box">
             <img src="images/icon-1.png" alt="">
-            <h3>Essen und Trinken</h3>
-            <p>Wir bieten Ihnen eine exzellente Auswahl an Speisen und Getränken.
-
-               Restaurant: Geniessen Sie lokale und internationale Spezialitäten in unserem Restaurant.
-               Bar: Entspannen Sie sich in unserer Bar mit einer breiten Palette an Getränken und Cocktails.
-               Zimmerservice: Unser 24-Stunden-Zimmerservice ermöglicht Ihnen, Ihre Mahlzeiten in Ihrem Zimmer zu genießen.
-               Frühstück inklusive: Beginnen Sie den Tag mit einem reichhaltigen Frühstück, das im Zimmerpreis inbegriffen ist.
-
-               Wir verwenden nur die besten Zutaten, um Ihnen unvergessliche kulinarische Momente zu bieten.
-            </p>
+            <h3>Gastronomie</h3>
+            <p>Wir bieten Ihnen eine exzellente Auswahl an Speisen und Getränken:<br> Restaurant: Genießen Sie lokale
+               und
+               internationale Spezialitäten.<br> Bar: Entspannen Sie bei einer breiten Palette an Getränken und
+               Cocktails.<br>
+               Zimmerservice: 24-Stunden-Service für Mahlzeiten im Zimmer.<br> Frühstück inklusive: Starten Sie den Tag
+               mit
+               einem reichhaltigen Frühstück, das im Zimmerpreis inbegriffen ist.</p>
          </div>
 
          <div class="box">
             <img src="images/icon-2.png" alt="">
             <h3>Essen im Freien</h3>
-            <p>Geniessen Sie Ihre Mahlzeiten unter freiem Himmel in unserem charmanten Aussenbereich.
-
-               Gartenrestaurant: Köstliche Speisen umgeben von üppigem Grün und entspannter Atmosphäre.
-               Poolbar: Erfrischende Getränke und leichte Snacks am Pool, betreut von unserem freundlichen Personal.
-               Terrasse: Spektakuläre Ausblicke und kulinarische Köstlichkeiten zu jeder Mahlzeit.
-
-               Erleben Sie die perfekte Verbindung von gutem Essen und Natur.</p>
+            <p>Genießen Sie Ihre Mahlzeiten im charmanten Außenbereich unseres Hotels.<br>
+               Gartenrestaurant: Köstliche Speisen in einer üppig grünen und entspannten Atmosphäre.<br>
+               Poolbar: Erfrischende Getränke und leichte Snacks am Pool, betreut von freundlichem Personal.<br>
+               Terrasse: Spektakuläre Ausblicke und kulinarische Köstlichkeiten zu jeder Mahlzeit.</p>
          </div>
 
          <div class="box">
             <img src="images/icon-3.png" alt="">
             <h3>Strandblick</h3>
-            <p>Geniessen Sie spektakuläre Ausblicke auf den Strand und das Meer während Ihrer Mahlzeiten.
-
-               Strandrestaurant: Exzellente Speisen mit atemberaubender Aussicht auf den Ozean und romantische Sonnenuntergänge.
-               Meeresbrise: Speisen Sie auf unserer Terrasse mit Blick auf den Horizont und den feinen Sandstrand.
+            <p>Genießen Sie atemberaubende Ausblicke auf den Strand und das Meer während Ihrer Mahlzeiten.<br>
+               Strandrestaurant: Exzellente Speisen mit atemberaubender Aussicht auf den Ozean und romantische
+               Sonnenuntergänge.<br>
+               Meeresbrise: Speisen Sie auf unserer Terrasse mit Blick auf den Horizont und den feinen Sandstrand.<br>
                Privates Dinieren am Strand: Romantische, exklusive Gerichte und persönlicher Service direkt am Strand.
-
-               Erleben Sie kulinarische Genüsse in perfekter Harmonie mit der Schönheit der Natur.</p>
+            </p>
          </div>
 
          <div class="box">
             <img src="images/icon-4.png" alt="">
+
             <h3>Dekorationen</h3>
-            <p>Tauchen Sie ein in eine Welt voller Eleganz und Stil dank unserer sorgfältig ausgewählten Dekorationen.
-
-               Elegantes Ambiente: Stilvolle Dekorationen in der Lobby und den Gästezimmern vereinen Komfort und Luxus.
-               Kunstwerke: Bewundern Sie lokale Kunstwerke, die jedem Raum eine besondere Note verleihen.
-               Blumenschmuck: Frische Blumenarrangements schaffen eine belebende und duftende Atmosphäre.
+            <p> Tauchen Sie ein in eine Welt voller Eleganz und Stil dank unserer sorgfältig ausgewählten
+               Dekorationen.<br>
+               Elegantes Ambiente: Stilvolle Dekorationen in der Lobby und den Gästezimmern vereinen Komfort und
+               Luxus.<br>
+               Kunstwerke: Bewundern Sie lokale Kunstwerke, die jedem Raum eine besondere Note verleihen.<br>
+               Blumenschmuck: Frische Blumenarrangements schaffen eine belebende und duftende Atmosphäre.<br>
                Saisonale Dekorationen: Angepasst an die Jahreszeiten bieten unsere Dekorationen ein festliches Erlebnis.
-
-               Erleben Sie die Kunst der Dekorationen und lassen Sie sich von unserem ansprechenden
-               Ambiente verzaubern.</p>
-         </div>
-
-         <div class="box">
-            <img src="images/icon-5.png" alt="">
-            <h3>Schwimmbad</h3>
-            <p>Entspannen Sie Körper und Geist in unserem erstklassigen Schwimmbad.
-
-            Erfrischender Genuss: Tauchen Sie in unser kristallklares Schwimmbad ein und erfrischen Sie sich nach einem ereignisreichen Tag.
-            Panoramablick: Genießen Sie spektakuläre Ausblicke auf die Umgebung beim Schwimmen.
-            Sonnenliegen: Entspannen Sie auf bequemen Sonnenliegen rund um das Schwimmbad und genießen Sie die Sonne.
-            Poolbar: Genießen Sie erfrischende Getränke und leichte Snacks an unserer Poolbar.
-
-               Erleben Sie unvergessliche Momente der Entspannung und Erholung in unserem Schwimmbad.</p>
-         </div>
-
-         <div class="box">
-            <img src="images/icon-6.png" alt="">
-            <h3>Resort-Strand</h3>
-            <p>Entdecken Sie unseren exklusiven Strandbereich, wo Entspannung und Abenteuer auf Sie
-               warten.
-
-               Privater Zugang: Genießen Sie einen abgeschiedenen Strandabschnitt, exklusiv für unsere Gäste.
-               Wassersportaktivitäten: Erleben Sie Schnorcheln, Tauchen oder Kajakfahren direkt vor Ort, unterstützt von unserem erfahrenen Personal.
-               Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und Snacks an unserer Strandbar.
-               Sonnenuntergänge: Genießen Sie spektakuläre Sonnenuntergänge und die romantische Atmosphäre am Strand.
-
-               Erleben Sie unvergessliche Momente und lassen Sie sich von der Schönheit der Natur inspirieren.
             </p>
          </div>
 
+         <di v class="box">
+            <img src="images/icon-5.png" alt="">
+            <h3>Schwimmbad</h3>
+            <p> Entspannen Sie Körper und Geist in unserem erstklassigen Schwimmbad.<br>
+               Erfrischender Genuss: Tauchen Sie in unser kristallklares Schwimmbad ein und erfrischen Sie sich nach
+               einem ereignisreichen Tag.<br>
+               Panoramablick: Genießen Sie spektakuläre Ausblicke auf die Umgebung beim Schwimmen.<br>
+               Sonnenliegen: Entspannen Sie auf bequemen Sonnenliegen rund um das Schwimmbad und genießen Sie die
+               Sonne.<br>
+               Poolbar: Genießen Sie erfrischende Getränke und leichte Snacks an unserer Poolbar.</p>
       </div>
+
+      <di v class="box">
+         <img src="images/icon-6.png" alt="">
+         <h3>Resort-Strand</h3>
+         <p>Entdecken Sie unseren exklusiven Strandbereich, wo Entspannung und Abenteuer auf Sie warten.<br>
+            Privater Zugang: Genießen Sie einen abgeschiedenen Strandabschnitt, exklusiv für unsere Gäste.<br>
+            Wassersportaktivitäten: Erleben Sie Schnorcheln, Tauchen oder Kajakfahren direkt vor Ort, unterstützt von
+            unserem erfahrenen Personal.<br>
+            Strandbar: Verwöhnen Sie sich mit erfrischenden Getränken und Snacks an unserer Strandbar.<br>
+            Sonnenuntergänge: Genießen Sie spektakuläre Sonnenuntergänge und die romantische Atmosphäre am Strand.
+         </p>
+         </div>
+
+         </div>
 
    </section>
 
@@ -377,16 +367,16 @@ if (isset($_POST['send'])) {
          <div class="flex">
             <div class="box">
                <p>Ihr Name <span>*</span></p>
-               <input type="text" name="name" maxlength="50" required placeholder="enter your name" class="input">
+               <input type="text" name="name" maxlength="50" required placeholder="Name eingeben" class="input">
             </div>
             <div class="box">
                <p>Ihre E-Mail <span>*</span></p>
-               <input type="email" name="email" maxlength="50" required placeholder="enter your email" class="input">
+               <input type="email" name="email" maxlength="50" required placeholder="E-Mail eingeben" class="input">
             </div>
             <div class="box">
                <p>Ihre Nummer <span>*</span></p>
                <input type="number" name="number" maxlength="10" min="0" max="9999999999" required
-                  placeholder="enter your number" class="input">
+                  placeholder="Nummer eingeben" class="input">
             </div>
             <div class="box">
                <p>Zimmer <span>*</span></p>
@@ -431,7 +421,7 @@ if (isset($_POST['send'])) {
                </select>
             </div>
          </div>
-         <input type="submit" value="book now" name="book" class="btn">
+         <input type="submit" value="Jetzt buchen" name="book" class="btn">
       </form>
 
    </section>
@@ -466,13 +456,13 @@ if (isset($_POST['send'])) {
 
          <form action="" method="post">
             <h3>Schicken Sie uns eine Nachricht</h3>
-            <input type="text" name="name" required maxlength="50" placeholder="enter your name" class="box">
-            <input type="email" name="email" required maxlength="50" placeholder="enter your email" class="box">
+            <input type="text" name="name" required maxlength="50" placeholder="Name eingeben" class="box">
+            <input type="email" name="email" required maxlength="50" placeholder="E-Mail eingeben" class="box">
             <input type="number" name="number" required maxlength="10" min="0" max="9999999999"
-               placeholder="enter your number" class="box">
-            <textarea name="message" class="box" required maxlength="1000" placeholder="enter your message" cols="30"
+               placeholder="Nummer eingegen" class="box">
+            <textarea name="message" class="box" required maxlength="1000" placeholder="Ihre Nachricht" cols="30"
                rows="10"></textarea>
-            <input type="submit" value="send message" name="send" class="btn">
+            <input type="submit" value="Nachricht schicken" name="send" class="btn">
          </form>
 
          <div class="faq">
@@ -540,14 +530,14 @@ if (isset($_POST['send'])) {
          <div class="swiper-wrapper">
             <div class="swiper-slide box">
                <img src="images/pic-1.png" alt="">
-               <h3>Jussif Abdel-Rahman</h3>
+               <h3>Max Meyer</h3>
                <p>Dieses Hotel übertraf alle meine Erwartungen! Vom herzlichen Empfang bis hin zum atemberaubenden Blick
                   aus meinem Zimmer war jeder Moment ein Genuss. Das Personal war äußerst zuvorkommend und die
                   Annehmlichkeiten waren erstklassig. Ich kann es kaum erwarten, zurückzukehren!</p>
             </div>
             <div class="swiper-slide box">
                <img src="images/pic-2.png" alt="">
-               <h3>Leonardo Kalbermatter</h3>
+               <h3>Emma Schmidt</h3>
                <p>ch konnte mich in diesem Hotel vollkommen entspannen. Der Spa-Bereich war himmlisch und das Schwimmbad
                   bot einen herrlichen Blick auf die Umgebung. Das Essen war köstlich und das Personal stand immer
                   bereit, um sicherzustellen, dass mein Aufenthalt unvergesslich wurde. Absolut empfehlenswert für alle,
@@ -555,7 +545,7 @@ if (isset($_POST['send'])) {
             </div>
             <div class="swiper-slide box">
                <img src="images/pic-3.png" alt="">
-               <h3>Hans Franz</h3>
+               <h3>Leon Wagner</h3>
                <p>Unser Aufenthalt in diesem Hotel war einfach magisch! Der Strandabschnitt des Resorts war einfach
                   traumhaft und perfekt für lange Spaziergänge am Meer. Das Zimmer bot einen atemberaubenden Blick auf
                   den Sonnenuntergang, und das freundliche Personal sorgte dafür, dass wir uns wie zu Hause fühlten. Ich
@@ -563,14 +553,14 @@ if (isset($_POST['send'])) {
             </div>
             <div class="swiper-slide box">
                <img src="images/pic-4.png" alt="">
-               <h3>Cristiano Ronaldo</h3>
+               <h3>Sophia Bauer</h3>
                <p>Wir waren begeistert von der Vielfalt und Qualität des Essens in diesem Hotel. Vom reichhaltigen
                   Frühstücksbuffet bis hin zu den exquisiten Abendessen im hauseigenen Restaurant wurden unsere
                   Geschmacksknospen ständig verwöhnt. Ein absolutes Muss für Feinschmecker!</p>
             </div>
             <div class="swiper-slide box">
                <img src="images/pic-5.png" alt="">
-               <h3>Thomas Schmidt</h3>
+               <h3>Paul Becker</h3>
                <p>Unser Familienurlaub in diesem Hotel war ein voller Erfolg! Die Kinder liebten den Poolbereich und den
                   Spielplatz, während die Erwachsenen die entspannte Atmosphäre und die erstklassigen Einrichtungen
                   genossen. Das Personal war äußerst hilfsbereit und freundlich und sorgte dafür, dass wir uns rundum
@@ -578,7 +568,7 @@ if (isset($_POST['send'])) {
             </div>
             <div class="swiper-slide box">
                <img src="images/pic-6.png" alt="">
-               <h3>John Imboden</h3>
+               <h3>Lina Fischer</h3>
                <p>Dieses Hotel war der ideale Ausgangspunkt für unsere Abenteuer in der Umgebung. Wir konnten problemlos
                   die nahegelegenen Sehenswürdigkeiten erkunden und kehrten jeden Abend gerne in unser gemütliches
                   Zimmer zurück. Die Lage, der Service und die Atmosphäre machten unseren Urlaub unvergesslich. Sehr

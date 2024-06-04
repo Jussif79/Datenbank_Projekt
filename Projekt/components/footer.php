@@ -1,15 +1,13 @@
-<!-- footer section starts  -->
-
 <section class="footer">
 
    <div class="box-container">
 
       <div class="box">
-         <a href="tel:1234567890"><i class="fas fa-phone"></i> +123-456-7890</a>
-         <a href="tel:1112223333"><i class="fas fa-phone"></i> +111-222-3333</a>
-         <a href="mailto:shakhanas@gmail.com"><i class="fas fa-envelope"></i> shakhanas@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com"><i class="fas fa-envelope"></i> anasbhai@gmail.com</a>
-         <a href="#"><i class="fas fa-map-marker-alt"></i> mumbai, india - 400104</a>
+         <a href="tel:1234567890"><i class="fas fa-phone"></i> +41 77 810 67 87</a>
+         <a href="tel:1112223333"><i class="fas fa-phone"></i> +41 79 934 45 23</a>
+         <a href="mailto:shakhanas@gmail.com"><i class="fas fa-envelope"></i> jussif.abdel-rahman@edu.vs.ch</a>
+         <a href="mailto:anasbhai@gmail.com"><i class="fas fa-envelope"></i> leonardo.kalbermatter@edu.vs.ch</a>
+         <a href="#"><i class="fas fa-map-marker-alt"></i>Visp, Wallis -Switzerland</a>
       </div>
 
       <div class="box">
@@ -35,5 +33,3 @@
    <div class="credit">&copy; Urheberrecht @ 2024 von Jussif & Leonardo | Alle Rechte vorbehalten!</div>
 
 </section>
-
-<!-- footer section ends -->
